@@ -1,0 +1,18 @@
+.weather-main{
+height: 100vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 100p x;
+    background-image: url(https://images.hdqwalls.com/wallpapers/clouds-summer-weather-5k-1b.jpg); 
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
